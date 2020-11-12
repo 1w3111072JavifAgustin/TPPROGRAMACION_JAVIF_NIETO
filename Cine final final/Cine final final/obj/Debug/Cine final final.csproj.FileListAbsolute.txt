@@ -1,0 +1,74 @@
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\Cine final final.exe.config
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\Cine final final.exe
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\Cine final final.pdb
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\obj\Debug\Cine final final.csprojAssemblyReference.cache
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\obj\Debug\Cine_final_final.Form1.resources
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\obj\Debug\Cine_final_final.Properties.Resources.resources
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\obj\Debug\Cine final final.csproj.GenerateResource.cache
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\obj\Debug\Cine final final.csproj.CoreCompileInputs.cache
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\obj\Debug\Cine final final.exe
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\obj\Debug\Cine final final.pdb
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\obj\Debug\Cine_final_final.Form2.resources
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\EnvDTE.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\stdole.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\obj\Debug\Cine final final.csproj.CopyComplete
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\obj\Debug\RdlCompile.cache
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\obj\Debug\RdlCompile.compiled
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\obj\Debug\Cine_final_final.frmReportePelicula.resources
+C:\Users\Agustín\source\repos\Cine final final\Cine final final\obj\Debug\Cine_final_final.frmMenuPrincipal.resources
